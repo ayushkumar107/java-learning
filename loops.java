@@ -1,3 +1,4 @@
+import java.util.*;
 public class loops {
    
    
@@ -11,6 +12,12 @@ public class loops {
 
 
     //loop 1 to n
+
+    // Scanner in=new Scanner (System.in);
+    // int n=in.nextInt();
+    // for(int i=1;i<=n;i++){
+    //   System.out.println(i);
+    // }
 
     
 
