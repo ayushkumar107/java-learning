@@ -30,6 +30,23 @@ public class loops {
     // }
 
 
+    //do while loop 1 to 5
+
+    // int n=1;
+    // do{
+    //   System.out.println(n);
+    //   n+=1;
+    // }while(n<=5);
+
+    Scanner in=new Scanner(System.in);
+    // int n=in.nextInt();
+    
+    // int i=1;
+    // do{
+    //   System.out.println(i);
+    //   i+=1;
+
+    // }while(i<=n);
 
 
 
