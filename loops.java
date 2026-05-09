@@ -19,7 +19,17 @@ public class loops {
     //   System.out.println(i);
     // }
 
-    
+    //while loop
+    //while loop 1 to 5
+
+
+    // int n=1;
+    // while(n<=5){
+    //   System.out.println(n);
+    //   n+=1;
+    // }
+
+
 
 
 
